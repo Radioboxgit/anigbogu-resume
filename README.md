@@ -1,9 +1,6 @@
-![mockup](src/assets/mockup_edited.jpg)
-
 # Vue-Resume
 
 My Responsive Resume based on Vue.
-
 ## Quick Start
 1.Clone this repository.
 ```
