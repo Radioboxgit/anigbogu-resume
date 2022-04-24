@@ -1,0 +1,86 @@
+
+name:
+  name: Chinedu Anigbogu
+  position: FullStack Web Developer
+
+contacts:
+  phone: "+2348082844340"
+  email: chinedulaw62@gmail.com
+  linkedin: linkedin.com/in/chinedu-anigbogu-62ab74188
+  github: github.com/Radioboxgit
+  website: https://radio-villa.vercel.app
+  twitter: "@AnigboguNedu"
+  location: "Anambra State, Nigeria"
+
+profile: Diligent software developer with 5+ years experience in commercial application development. Confident communicator, strategic thinker, and innovative creator ready to create software that is customized to match a company's organizational demands, emphasize the company's key capabilities, and help it succeed.
+
+skills:
+- "Javascript( React.js, Vue.js, Nuxt.js)"
+- "Python( FastAPI, Scikit-Learn)"
+- "HTML5,JSX,CSS3"
+- "Bootstrap,Bootstrap-vue"
+- "PostgresSQL,MongoDB, Redis"
+- "Git, Github"
+- REST APIs
+- "Baas(Supabase)"
+- Selenium
+- Appium
+
+
+experience:
+- company: ARTV Com. Nig
+  duration: 2021 - 2022
+  designation: Web Developer
+  achievements:
+  - Developed dynamic and responsive websites with good user experience using Nuxt.js
+  - Designed multiple dynamic and browser compatible web pages using HTML5,CSS3,and modern Javascript web frameworks React.js and Vue.js
+  - Collaborated with the technology team and stakeholders to support and build new modules/applications as per client demand.
+  - Developed performant code using core Vue, Vuex, and Vue Router to manage application states
+  - Identified areas for site improvement, adding features and functionalities where appropriate to augment user experience
+
+- company: Anambra State Gov.
+  duration: 2019-2021
+  designation: The Lead Engineer in charge of transitioning from battery-powered systems(BPs) to solar direct drive(SDD) cold chain vaccine Refrigerators.
+  achievements: 
+  - Performed requirements analysis, design,development and test management of SDD Online dashboard Application.
+  - Estimated, performed feasibility analysis and forecast risks and planned the delivery of SDD architecture for the state.
+  - Lead a team of Service Engineers,Health Professionals and Vendors to support mission critical applications for SDD Cold Chain Vaccine Equipments deployment
+
+- company: Dawn Computronix
+  duration: 2017-2018
+  designation: Automation Engineer
+  achievements: 
+  - Participated in the design and implementation of a keyword-driven automation with Selenium Webdriver.
+  - Coordinated with peers  for the analysis of test requirement and automation feasibility.
+  - Developed test scenarios for bespoke web apps and automating test suites using Python, Selenium Webdriver.
+  - Carried out quality assurance tests to identify software flaws and improve usability.
+  - Built Internal tool using Python to automate the control of online broadcast system.
+
+
+
+
+education:
+  degreeTitle: BEng
+  institutionName: Nnamdi Azikiwe University Awka
+  studyDirection: Electronic and Computer/Telecommunication Engineering.
+
+projects:
+- name: RadioBox
+  description: Developed and deployed <strong>RadioBox</strong>, a full-stack web application powered by Vue.js(Nuxt.js) and Supabase (backend as a service) for user authentication and allows users to stream different internet radio stations from across the world.
+  link: https://radio-villa.vercel.app
+
+- name: nowplaying
+  description: <strong>nowplaying</strong>,a FastAPI app that Fetches Icecast song title and artist name from internet radio URL streams.
+  link: https://nowplaying.deta.dev
+
+- name: iradionaija
+  description: <strong>iradionaija</strong>, a REST API deployed on Deta with deta base that allows developers to search and get the list of all internet radio stations in Nigeria.
+  link: https://iradionaija.deta.dev
+
+- name: vue-resume
+  description: <strong>Vue-Resume</strong>, a Vue3 JS powered online resume app.
+  link: https://radio-villa.vercel.app
+
+
+
+
