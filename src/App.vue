@@ -30,9 +30,11 @@ button {
 }
 
 body{
-    background-color: rgb(208, 211, 212);
-    background-image: radial-gradient(at 40% 55%, rgb(247, 11, 211) 0px, transparent 50%), radial-gradient(at 33% 94%, rgb(122, 6, 93) 0px, transparent 50%), radial-gradient(at 43% 99%, rgb(250, 4, 217) 0px, transparent 50%), radial-gradient(at 86% 24%, rgb(149, 154, 228) 0px, transparent 50%), radial-gradient(at 35% 71%, rgb(250, 69, 205) 0px, transparent 50%), radial-gradient(at 82% 63%, rgb(170, 4, 162) 0px, transparent 50%), radial-gradient(at 8% 13%, rgb(192, 79, 252) 0px, transparent 50%);
+  background-image: url("~@/assets/shiny_background.svg");
+  background-repeat: no-repeat;
+  background-size:cover;
 }
+
 
 .a4 {
   background: #e9ebe9;
